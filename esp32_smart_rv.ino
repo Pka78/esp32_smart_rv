@@ -5,7 +5,7 @@
 
 */
 
-#include <FreeRTOS.h>
+#include <freertos/FreeRTOS.h>
 #include <WiFi.h>
 #include <WebServer.h>
 #include <SPIFFS.h>
